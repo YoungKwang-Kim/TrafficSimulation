@@ -1,5 +1,7 @@
 # Traffic-Simulation
-![traffic_thumnail](https://github.com/user-attachments/assets/14638b9e-9069-4681-a34f-5c1d232fd9df)
+
+![traffic_thumnail](https://github.com/user-attachments/assets/94b3a7c2-11e0-4816-b767-47ba566abbd4)
+
 Unity 기반의 도로 교통 시뮬레이션 시스템으로, 에디터 상에서 도로 설계와 교통 흐름을 구현할 수 있는 프로젝트입니다.
 
 ## 📌 프로젝트 소개
